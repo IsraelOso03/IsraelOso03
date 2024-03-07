@@ -12,6 +12,9 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://i.imgur.com/PFNJCex.png" />][linkedin]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" />][linkedin]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/israel-osorio/
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/109401839/212478926-900d4c1f-7cc6-4334-a601-523e4f7c5a62.svg)
