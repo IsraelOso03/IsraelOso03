@@ -9,7 +9,7 @@
   - Features **vacation package management, customer checkout, and data validation**
   - Implements **transaction handling and database optimizations**
 
-- **[Landon Hotel Scheduling Application - Spring Boot & Angular](https://github.com/IsraelOso03/LandonHotel)**
+- **[Landon Hotel Scheduling Application - Spring Boot & Angular](https://github.com/IsraelOso03/LandonHotelScheduling)**
   - Developed a **multithreaded** backend for localization (English & French)
   - Integrated **currency display** (USD $, CAD C$, EUR €)
   - Implemented **time zone conversion** across ET, MT, and UTC 🕒
