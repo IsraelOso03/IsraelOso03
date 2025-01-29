@@ -1,5 +1,11 @@
 <h1>Hi, I'm Israel, an aspiring<a href="https://www.linkedin.com/in/israel-osorio-14014728b/"> IT Professional</a>☺</h1>
 
+<h2>💻 Software Engineer Projects:</h2>
+- **[Travel Agency Booking System - Spring Boot Backend](https://github.com/IsraelOso03/TravelAgencyBackEnd)**
+  - Built a **RESTful API** using **Spring Boot** and **MySQL**
+  - Features **vacation package management, customer checkout, and data validation**
+  - Implements **transaction handling and database optimizations**
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
